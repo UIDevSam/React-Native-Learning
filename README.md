@@ -1,1 +1,1 @@
-#This is a exclusive REact Native COurse for Beginners.
+# This is a exclusive React Native Course for Beginners.
